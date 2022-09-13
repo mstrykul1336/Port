@@ -1,2 +1,2 @@
 # Mikinzi Strykul's Portfolio 
-Accesible here: 
+Accesible here: https://mstrykul1336.github.io/Portfolio-/
